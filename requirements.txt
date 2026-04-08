@@ -1,0 +1,7 @@
+PyQt6>=6.5.0
+pyqtgraph>=0.13.3
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+cflib>=0.1.25
+psutil>=5.9.0
+numpy>=1.24.0
