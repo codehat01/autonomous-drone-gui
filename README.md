@@ -111,6 +111,14 @@ YoloService      cflib ──► LiteWing Drone
 ### Controller View
 <img src="reports/screenshots/controller.jpeg" alt="Controller View" width="800"/>
 
+<img src="reports/screenshots/controller.png" alt="Controller View v2" width="800"/>
+
+### Flight Page — Live Camera + YOLOv8 Tracking
+<img src="reports/screenshots/flight.png" alt="Flight Page" width="800"/>
+
+### Flight Page v1
+<img src="reports/screenshots/flightv1.png" alt="Flight Page v1" width="800"/>
+
 > Add more screenshots to [`reports/screenshots/`](reports/screenshots/)
 
 ---
